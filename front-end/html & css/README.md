@@ -23,5 +23,9 @@ Lets begin with a basic html5 skeleton.
 ```
 In programming, Semantics refers to the meaning of a piece of code
 ![](https://internetingishard.com/html-and-css/semantic-html/html-header-element-7b4e01.png)
+
 Check out this link on [Semantic Code](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 ### Lets get started by visiting [codepen.com](https://codepen.io/pen/)
+
+## [Home](https://github.com/3salaz/Courses)
+## [HTML & CSS](https://github.com/3salaz/Courses/tree/master/front-end/html%20%26%20css)
