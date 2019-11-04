@@ -2,14 +2,14 @@
 
 | Course        | ... | Link |
 | ------------- |:-------------:| -----:|
-| Front-End Fundamentals |<img src="https://github.com/3salaz/Courses/blob/master/assets/images/browser-development.png" width="100">| [Enter](https://github.com/3salaz/Courses/tree/master/front-end) |
-| Back-End Fundamentals |![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")  | [Enter](https://github.com/3salaz/Courses/tree/master/front-end) |
-| Design For The Web |![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")  | [Enter](https://github.com/3salaz/Courses/tree/master/front-en
+| Front-End Fundamentals | <img src="https://cdn3.iconfinder.com/data/icons/illustricon-tech/512/browser.development-512.png" width="100"> | [Enter](https://github.com/3salaz/Courses/tree/master/front-end) |
+| Back-End Fundamentals | <img src="https://cdn2.iconfinder.com/data/icons/bubble-seo-internet-marketing-1-2/360/Web_Design-512.png" width="100"> | [Enter](https://github.com/3salaz/Courses/tree/master/back-end) |
+| Design For The Web | <img src="https://hackernoon.com/hn-images/1*GkzKz-wfxLaShBREklifbg.png" width="100"> | [Enter](https://github.com/3salaz/Courses/tree/master/design) |
 
 ## coming soon...
 
-| Course        | Link           | Cost |
+| Course        | ...          | Link |
 | ------------- |:-------------:| -----:|
-| Front-End Projects | ... | Free (Limited Time) |
-| Creating Your First API | ... | Free (Limited Time) |
-| Gaming with Javascript | ...  | Free (Limited Time) |
+| Front-End Projects | ... | [Enter](https://github.com/3salaz/Courses/tree/master/front-end) |
+| Creating Your First API | ... | [Enter](https://github.com/3salaz/Courses/tree/master/api) |
+| Gaming with Javascript | ...  | [Enter](https://github.com/3salaz/Courses/tree/master/gaming) |
