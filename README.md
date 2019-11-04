@@ -1,4 +1,4 @@
-# ![Edu](https://github.com/https://github.com/3salaz/Courses/tree/master/assets/images/3salaz-logo.png "3salaz Logo")
+ # ![Edu](https://raw.githubusercontent.com/3salaz/Courses/master/assets/images/3salaz-logo.png "3salaz Logo") Education
 
 | Course        |         | Link |
 | ------------- |:-------------:| -----:|
