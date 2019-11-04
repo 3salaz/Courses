@@ -1,8 +1,5 @@
 # 0.1 Intro to Web Development
 ## The internet is made up of many connected computers talking together.
-<img src="./../assets/images/browser-development.png" width="100">
-<img src="https://cdn2.iconfinder.com/data/icons/bubble-seo-internet-marketing-1-2/360/Web_Design-512.png" width="100">
-<img src="https://hackernoon.com/hn-images/1*GkzKz-wfxLaShBREklifbg.png" width="100">
 
 ### Can someone point me to the computer shown in this picture?
 
