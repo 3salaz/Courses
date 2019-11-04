@@ -19,11 +19,6 @@
 Learning web development takes patience, practice and commitment.
 
 ## When learning a new subject you might sometimes feel like this.
-
 ![](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
-
 ## but also like this...
 ![](https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif)
-
-Today we will be working on creating a web page using all three languages.
-# Lets get stated on [codepen.com](https://codepen.io/pen/)
